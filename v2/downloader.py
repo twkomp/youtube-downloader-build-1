@@ -22,4 +22,4 @@ if movefiletodownloads == True:
     try:
       shutil.move(dirb, "./downloads")
     except shutil.Error:
-      print "allready exists, deleting"
+      print "allready exists"
