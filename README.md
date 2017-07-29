@@ -17,6 +17,8 @@ http://www.pygtk.org/
 # libs used and how to install
 tutorials are at https://pip.pypa.io/en/stable/installing/
 
+to install python goto https://www.python.org, goto downloads, and pick 2.7.X X is the lastest number.
+
 to install pip, download setup tools from: https://bootstrap.pypa.io/get-pip.py
 
 now run `python get-pip.py` while in the same dir to install pip from get-pip.py
